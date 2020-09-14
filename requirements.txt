@@ -37,7 +37,7 @@ modulegraph==0.10.4
 moviepy==0.2.3.2
 mysql-connector-python-cext==8.0.16
 numpy==1.8.0rc1
-Pillow==6.0.0
+Pillow==7.1.0
 py2app==0.7.3
 pycparser==2.19
 pyobjc-core==2.5.1
