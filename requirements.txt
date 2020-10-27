@@ -12,7 +12,7 @@ cffi==1.12.2
 chardet==3.0.4
 Click==7.0
 configparser==3.7.4
-cryptography==2.6.1
+cryptography==3.2
 decorator==4.0.11
 enum34==1.1.6
 filetype==1.0.5
